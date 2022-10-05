@@ -7,7 +7,8 @@
 
 <p>◾ Font Used :- "Arial"</p>
 <p>◾ Edit the "root.title" to anything desired as per your choice, by default it will be "TTS Project"</p>
-<p>◾ You can edit the "root.config" to any color of your choice by entering the name of the color, Default the color is "gray"</p>
+<p>◾ You can edit the "root.config" to any color of your choice by entering</p>
+<p>  the name of the color, Default the color is "gray"</p>
 </body>
 </html>
 
